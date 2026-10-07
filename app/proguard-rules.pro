@@ -1,0 +1,1 @@
+-keep class com.mydailytools.app.data.db.entity.** { *; }
